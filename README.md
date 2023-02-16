@@ -1,7 +1,7 @@
 # Answer Key for the MS JS Pre-Assessment
 
-## Scoring Guide
-Use the scoring guide as follows: If a student answers all questions through question-XX correctly, find the row of the guide containing question-XX. This the second column of this row dictates which curriculum week/lesson the student should start with.
+## Placement Guide
+Use the placement guide as follows: If a student answers all questions through question-XX correctly, find the row of the guide containing question-XX. This the second column of this row dictates which curriculum week/lesson the student should start with.
 
 | Question Answered Correctly | Starting Week/Lesson |
 | ----------- | ----------- |
