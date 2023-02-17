@@ -1,7 +1,6 @@
 # Answer Key for the MS JS Pre-Assessment
 
-## Accessing the Answer Key
-The answer key is contained in 'answers.js,' which is in the root directory.
+The answer key is contained in 'answers.js,' which is in the root directory of this repo.
 
 ## Placement Guide
 Use the placement guide as follows: If a student answers all questions through question-XX correctly, find the row of the guide containing question-XX. The second column of this row dictates which curriculum week/lesson the student should start with.
