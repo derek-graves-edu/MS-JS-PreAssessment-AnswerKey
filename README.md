@@ -1,5 +1,6 @@
 # Answer Key for the MS JS Pre-Assessment
 
+## Accessing the Answer Key
 The answer key is contained in 'answers.js,' which is in the root directory of this repo.
 
 ## Placement Guide
